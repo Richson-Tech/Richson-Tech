@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Folorunsho Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
-- 👨‍💻 All of my projects are available at [https://folorunsho-ahmed.vercel.app/](https://folorunsho-ahmed.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ahmedcodes.vercel.app/](https://ahmedcodes.vercel.app/)
 
 - 💬 Ask me about **react,typeScript,nodejs,mongo.DB**
 
-- 📫 How to reach me **https://folorunsho-ahmed.vercel.app/**
+- 📫 How to reach me **https://ahmedcodes.vercel.app/**
 
-- 📄 Know about my experiences [https://folorunsho-ahmed.vercel.app/)
+- 📄 Know about my experiences [https://ahmedcodes.vercel.app/)
 
 - ⚡ Fun fact **I am funny, smart and a problem solver.**
 
