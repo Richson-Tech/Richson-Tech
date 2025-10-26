@@ -23,7 +23,7 @@ Fullstack developer passionate about crafting modern, scalable web and mobile ap
 <a href="https://www.x.com/richsongocrazy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/richsongocrazy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
